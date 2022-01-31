@@ -12,9 +12,11 @@
 
 @media (max-width: 56em) {
 	.d-grid {
+		grid-template-columns: 1fr;
+		grid-template-rows: auto 1fr;
+		align-items: start;
+
 		padding-top: 5rem;
-		display: flex;
-		flex-direction: column;
 		gap: 5rem;
 	}
 

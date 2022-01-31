@@ -39,7 +39,6 @@ header {
 
 .scarecrow-img {
 	max-width: 33.75rem;
-	grid-row: 1 / -1;
 	justify-self: end;
 }
 

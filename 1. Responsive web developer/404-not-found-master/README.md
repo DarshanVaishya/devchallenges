@@ -26,7 +26,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Acknowledgements](#acknowledgements)
+- [Acknowledgements](#acknowledgement)
 
 ## Overview
 
